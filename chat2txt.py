@@ -7,7 +7,7 @@
 import re
 import sys
 
-body_line_regex = re.compile(r'^\*PAR\d+:  (.*) \. \S+_\S+$')
+body_line_regex = re.compile(r'^\*PAR\d+:\s+(.*) \. \S+_\S+$')
 
 with open(sys.argv[1], 'r') if len(sys.argv) > 1 else sys.stdin as file:
     for line in file:
