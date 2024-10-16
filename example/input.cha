@@ -3,8 +3,8 @@
 @Languages:     eng
 @Participants:  PAR0 Participant
 @...
-*PAR0:  {text 1} . \x15{ts}_{ts}\x15
-*PAR0:  {text 2} . \x15{ts}_{ts}\x15
-*PAR0:  {text 3} . \x15{ts}_{ts}\x15
-*PAR0:  {text 4} . \x15{ts}_{ts}\x15
+*PAR0:	{text 1} . \x15{ts}_{ts}\x15
+*PAR0:	{text 2} . \x15{ts}_{ts}\x15
+*PAR0:	{text 3} . \x15{ts}_{ts}\x15
+*PAR0:	{text 4} . \x15{ts}_{ts}\x15
 @End
